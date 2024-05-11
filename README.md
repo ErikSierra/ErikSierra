@@ -9,6 +9,7 @@ I'm deeply passionate about all things tech and always eager to learn more every
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/erik-sierra-84b2b128b/) - Feel free to connect with me!
+- Email: Erik.sierra77@gmail.com
 
 ## What I Believe In
 I believe in the power of technology to transform lives and make a real impact. My goal is to continue developing my skills and to contribute to projects that not only challenge me professionally but also provide value to the community.
