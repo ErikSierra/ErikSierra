@@ -5,7 +5,7 @@ I'm deeply passionate about all things tech and always eager to learn more every
 
 ## My Tech Stack
 - **Programming Languages:** Python 🐍, SQL 🛢️
-- **Tools & Technologies:** SSMS, Pycharm, Git, GitHub, Microsoft 365 Apps, Visual Studio. and more!
+- **Tools & Technologies:** SSMS, Pycharm, Git, GitHub, Microsoft 365 Apps, Visual Studio, and more!
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/erik-sierra-84b2b128b/) - Feel free to connect with me!
