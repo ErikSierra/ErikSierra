@@ -4,7 +4,7 @@
 I'm deeply passionate about all things tech and always eager to learn more every day. My journey in technology has led me to explore various programming languages, with a particular affinity for Python and SQL. I enjoy using these tools to solve problems and build meaningful projects.
 
 ## My Tech Stack
-- **Programming Languages:** Python 🐍, SQL 🛢️
+- **Primary Programming Languages:** Python 🐍, SQL 🛢️
 - **Tools & Technologies:** SSMS, Pycharm,  Visual Studio, Git, GitHub, Microsoft 365 Apps, Microsoft OS, CLI, ServiceNow, and more!
 
 ## Connect With Me
